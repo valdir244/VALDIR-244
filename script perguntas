@@ -1,0 +1,59 @@
+Claro! Você pode adicionar estas **4 novas perguntas** ao final do array `perguntas`:
+
+```
+{
+    enunciado: "Você precisa aprender um assunto novo e decide usar uma IA para estudar. Como você prefere utilizá-la?",
+    alternativas: [
+        {
+            texto: "Peço explicações simples, exemplos e exercícios para testar meu conhecimento.",
+            afirmacao: "Você utiliza a IA como uma ferramenta de aprendizado e busca desenvolver sua própria compreensão."
+        },
+        {
+            texto: "Peço um resumo completo e uso as informações prontas para estudar rapidamente.",
+            afirmacao: "Você valoriza a rapidez e a praticidade que a IA pode oferecer nos estudos."
+        }
+    ]
+},
+
+{
+    enunciado: "Uma IA cria uma imagem muito realista de uma pessoa famosa fazendo algo que nunca aconteceu. O que você pensa sobre isso?",
+    alternativas: [
+        {
+            texto: "É importante deixar claro que a imagem foi criada por IA para evitar que outras pessoas sejam enganadas.",
+            afirmacao: "Você valoriza a transparência e o uso responsável das ferramentas de Inteligência Artificial."
+        },
+        {
+            texto: "A tecnologia é interessante e pode ser usada para criar conteúdos criativos e divertidos.",
+            afirmacao: "Você se interessa pelo potencial criativo da IA para produzir novas experiências e conteúdos."
+        }
+    ]
+},
+
+{
+    enunciado: "Se você pudesse criar uma IA para ajudar a sociedade, qual seria sua principal função?",
+    alternativas: [
+        {
+            texto: "Ajudar médicos e pesquisadores a encontrar soluções para doenças e melhorar a saúde.",
+            afirmacao: "Você acredita que a IA pode contribuir para avanços científicos e melhorar a qualidade de vida."
+        },
+        {
+            texto: "Ajudar pessoas a encontrar soluções para problemas ambientais e proteger o planeta.",
+            afirmacao: "Você vê a tecnologia como uma aliada na busca por soluções para os desafios ambientais."
+        }
+    ]
+},
+
+{
+    enunciado: "Uma inteligência artificial apresenta uma resposta que parece correta, mas você não sabe se a informação é verdadeira. O que você faz?",
+    alternativas: [
+        {
+            texto: "Pesquiso em outras fontes confiáveis antes de aceitar a informação como verdadeira.",
+            afirmacao: "Você demonstra pensamento crítico e entende que respostas de IA precisam ser verificadas."
+        },
+        {
+            texto: "Confio na resposta se ela estiver bem explicada e parecer convincente.",
+            afirmacao: "Você valoriza respostas claras e completas ao utilizar ferramentas de Inteligência Artificial."
+        }
+    ]
+},
+```
