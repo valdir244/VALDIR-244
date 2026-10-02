@@ -1,6 +1,4 @@
-Claro! Você pode adicionar estas **4 novas perguntas** ao final do array `perguntas`:
 
-```
 {
     enunciado: "Você precisa aprender um assunto novo e decide usar uma IA para estudar. Como você prefere utilizá-la?",
     alternativas: [
