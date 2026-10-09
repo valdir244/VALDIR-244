@@ -20,8 +20,9 @@ const perguntas = [
     },
 
     {
-        enunciado: "Uma IA cria uma imagem muito realista de uma pessoa famosa fazendo algo que nunca aconteceu. O que você pensa sobre isso?",
+        enunciado: "Se você pudesse criar uma IA para ajudar a sociedade, qual seria sua principal função?",
     alternativas: [
+    
     
             {
                 texto: "É importante deixar claro que a imagem foi criada por IA para evitar que outras pessoas sejam enganadas.",
