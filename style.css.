@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: texto: "Peço explicações simples, exemplos e exercícios para testar meu conhecimento.",
-                afirmacao: "Você enxerga a tecnologia como uma ferramenta de apoio para aprimorar seu próprio aprendizado."
+                afirmacao: "Você utiliza a IA como uma ferramenta de aprendizado e busca desenvolver sua própria compreensão."
             },
             {
                 texto: "Peço para a IA gerar o texto completo e entrego a resposta para otimizar meu tempo.",
