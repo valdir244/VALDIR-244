@@ -36,7 +36,8 @@ const perguntas = [
     },
 
     {
-        enunciado: "Se você pudesse criar uma IA para ajudar a sociedade, qual seria sua principal função?",
+        enunciado: "Uma inteligência artificial apresenta uma resposta que parece correta, mas você não sabe se a informação é verdadeira. O que você faz?",
+    alternativas: [
     
         
             {
