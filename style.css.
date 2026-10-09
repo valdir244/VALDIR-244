@@ -25,7 +25,7 @@ const perguntas = [
     
             {
                 texto: "É importante deixar claro que a imagem foi criada por IA para evitar que outras pessoas sejam enganadas.",
-                afirmacao: "Você valoriza soluções educacionais que tornam o conhecimento acessível para diferentes pessoas."
+                afirmacao: "Você valoriza a transparência e o uso responsável das ferramentas de Inteligência Artificial."
             },
             {
                 texto: "Um aplicativo com jogos interativos que torna as aulas mais divertidas e engajadoras.",
