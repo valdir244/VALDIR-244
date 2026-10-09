@@ -24,7 +24,7 @@ const perguntas = [
     alternativas: [
     
             {
-                texto: "Um tutor virtual interativo que ajuda alunos com dificuldades no aprendizado de forma personalizada.",
+                texto: "É importante deixar claro que a imagem foi criada por IA para evitar que outras pessoas sejam enganadas.",
                 afirmacao: "Você valoriza soluções educacionais que tornam o conhecimento acessível para diferentes pessoas."
             },
             {
