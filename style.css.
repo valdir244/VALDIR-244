@@ -28,7 +28,7 @@ const perguntas = [
                 afirmacao: "Você valoriza a transparência e o uso responsável das ferramentas de Inteligência Artificial."
             },
             {
-                texto: "Um aplicativo com jogos interativos que torna as aulas mais divertidas e engajadoras.",
+                texto: "A tecnologia é interessante e pode ser usada para criar conteúdos criativos e divertidos.",
                 afirmacao: "Você acredita que a gamificação e o entretenimento são essenciais para transformar a educação."
             }
         ]
