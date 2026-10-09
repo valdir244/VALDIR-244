@@ -42,7 +42,7 @@ const perguntas = [
         
             {
                 texto: "Pesquiso em outras fontes confiáveis antes de aceitar a informação como verdadeira.",
-                afirmacao: "Você enxerga o futuro como uma colaboração entre humanos e máquinas, destacando nossas habilidades únicas."
+                afirmacao: "Você demonstra pensamento crítico e entende que respostas de IA precisam ser verificadas."
             },
             {
                 texto: "Muitas profissões tradicionais vão desaparecer, por isso devemos nos focar desde já em aprender programação e dados.",
