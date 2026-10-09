@@ -20,8 +20,9 @@ const perguntas = [
     },
 
     {
-        enunciado: "Sua escola abre inscrições para uma feira de tecnologia do futuro. Qual projeto você gostaria de desenvolver com seus colegas?",
-        alternativas: [
+        enunciado: "Uma IA cria uma imagem muito realista de uma pessoa famosa fazendo algo que nunca aconteceu. O que você pensa sobre isso?",
+    alternativas: [
+    
             {
                 texto: "Um tutor virtual interativo que ajuda alunos com dificuldades no aprendizado de forma personalizada.",
                 afirmacao: "Você valoriza soluções educacionais que tornam o conhecimento acessível para diferentes pessoas."
