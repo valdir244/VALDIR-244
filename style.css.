@@ -9,7 +9,7 @@ const perguntas = [
         enunciado: "Você precisa aprender um assunto novo e decide usar uma IA para estudar. Como você prefere utilizá-la?",
         alternativas: [
             {
-                texto: "Utilizo a IA para pesquisar o tema e organizar ideias, mas escrevo o texto final com minhas próprias palavras.",
+                texto: "Peço explicado simples.",
                 afirmacao: "Você enxerga a tecnologia como uma ferramenta de apoio para aprimorar seu próprio aprendizado."
             },
             {
