@@ -13,7 +13,7 @@ const perguntas = [
                 afirmacao: "Você utiliza a IA como uma ferramenta de aprendizado e busca desenvolver sua própria compreensão."
             },
             {
-                texto: "Peço para a IA gerar o texto completo e entrego a resposta para otimizar meu tempo.",
+                texto: "Peço um resumo completo e uso as informações prontas para estudar rapidamente.",
                 afirmacao: "Você prefere priorizar a praticidade e a automação de tarefas no seu dia a dia."
             }
         ]
