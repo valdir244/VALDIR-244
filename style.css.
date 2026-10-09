@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto: "Peço um resumo completo e uso as informações prontas para estudar rapidamente.",
-                afirmacao: "Você prefere priorizar a praticidade e a automação de tarefas no seu dia a dia."
+                afirmacao: "Você valoriza a rapidez e a praticidade que a IA pode oferecer nos estudos."
             }
         ]
     },
