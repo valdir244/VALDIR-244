@@ -36,8 +36,9 @@ const perguntas = [
     },
 
     {
-        enunciado: "Em uma conversa sobre o futuro do trabalho, um colega afirma que robôs e IAs vão substituir todas as profissões humanas. Qual é a sua opinião?",
-        alternativas: [
+        enunciado: "Se você pudesse criar uma IA para ajudar a sociedade, qual seria sua principal função?",
+    
+        
             {
                 texto: "Novas tecnologias vão automatizar tarefas, mas profissões que exigem criatividade, empatia e ética continuarão humanas.",
                 afirmacao: "Você enxerga o futuro como uma colaboração entre humanos e máquinas, destacando nossas habilidades únicas."
