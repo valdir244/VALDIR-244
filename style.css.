@@ -44,7 +44,7 @@ const perguntas = [
         
             {
                 texto: "Ajudar médicos e pesquisadores a encontrar soluções para doenças e melhorar a saúde.",
-                afirmacao: "Você demonstra pensamento crítico e entende que respostas de IA precisam ser verificadas."
+                afirmacao: "Você acredita que a IA pode contribuir para avanços científicos e melhorar a qualidade de vida."
             },
             {
                 texto: "Muitas profissões tradicionais vão desaparecer, por isso devemos nos focar desde já em aprender programação e dados.",
