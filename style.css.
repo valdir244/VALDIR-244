@@ -47,7 +47,7 @@ const perguntas = [
                 afirmacao: "Você acredita que a IA pode contribuir para avanços científicos e melhorar a qualidade de vida."
             },
             {
-                texto: "Muitas profissões tradicionais vão desaparecer, por isso devemos nos focar desde já em aprender programação e dados.",
+                texto: "Ajudar pessoas a encontrar soluções para problemas ambientais e proteger o planeta.",
                 afirmacao: "Você foca na adaptação técnica rápida para se destacar em um mercado dominado pela tecnologia."
             }
         ]
