@@ -43,7 +43,7 @@ const perguntas = [
     
         
             {
-                texto: "Pesquiso em outras fontes confiáveis antes de aceitar a informação como verdadeira.",
+                texto: "Ajudar médicos e pesquisadores a encontrar soluções para doenças e melhorar a saúde.",
                 afirmacao: "Você demonstra pensamento crítico e entende que respostas de IA precisam ser verificadas."
             },
             {
