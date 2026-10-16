@@ -59,7 +59,7 @@ const perguntas = [
         
             {
                 texto: "Pesquiso em outras fontes confiáveis antes de aceitar a informação como verdadeira.",
-                afirmacao: "Você demonstra responsabilidade digital e senso crítico diante do impacto da desinformação."
+                afirmacao: "Você demonstra pensamento crítico e entende que respostas de IA precisam ser verificadas."
             },
             {
                 texto: "Incentivo a criação de leis e ferramentas capazes de identificar e punir o uso indevido de IA.",
