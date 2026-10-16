@@ -58,7 +58,7 @@ const perguntas = [
     alternativas: [
         
             {
-                texto: "Busco sempre checar as fontes das notícias antes de compartilhar qualquer conteúdo suspeito.",
+                texto: "Pesquiso em outras fontes confiáveis antes de aceitar a informação como verdadeira.",
                 afirmacao: "Você demonstra responsabilidade digital e senso crítico diante do impacto da desinformação."
             },
             {
