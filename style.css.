@@ -62,7 +62,7 @@ const perguntas = [
                 afirmacao: "Você demonstra pensamento crítico e entende que respostas de IA precisam ser verificadas."
             },
             {
-                texto: "Incentivo a criação de leis e ferramentas capazes de identificar e punir o uso indevido de IA.",
+                texto:  "Confio na resposta se ela estiver bem explicada e parecer convincente.",
                 afirmacao: "Você defende a regulamentação ética para garantir a segurança no uso de novas tecnologias."
             }
         ]
