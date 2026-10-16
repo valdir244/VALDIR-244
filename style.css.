@@ -48,7 +48,7 @@ const perguntas = [
             },
             {
                 texto: "Ajudar pessoas a encontrar soluções para problemas ambientais e proteger o planeta.",
-                afirmacao:   "Você se interessa pelo potencial criativo da IA para produzir novas experiências e conteúdos."
+                afirmacao:    "Você vê a tecnologia como uma aliada na busca por soluções para os desafios ambientais."
             }
         ]
     },
