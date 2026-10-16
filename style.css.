@@ -54,8 +54,9 @@ const perguntas = [
     },
 
     {
-        enunciado: "Você descobre que imagens e vozes produzidas por IA estão sendo usadas para espalhar informações falsas na internet. O que você faz?",
-        alternativas: [
+        enunciado:  "Uma inteligência artificial apresenta uma resposta que parece correta, mas você não sabe se a informação é verdadeira. O que você faz?",
+    alternativas: [
+        
             {
                 texto: "Busco sempre checar as fontes das notícias antes de compartilhar qualquer conteúdo suspeito.",
                 afirmacao: "Você demonstra responsabilidade digital e senso crítico diante do impacto da desinformação."
