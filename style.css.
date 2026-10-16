@@ -63,7 +63,7 @@ const perguntas = [
             },
             {
                 texto:  "Confio na resposta se ela estiver bem explicada e parecer convincente.",
-                afirmacao: "Você defende a regulamentação ética para garantir a segurança no uso de novas tecnologias."
+                afirmacao: "Você valoriza respostas claras e completas ao utilizar ferramentas de Inteligência Artificial."
             }
         ]
     },
